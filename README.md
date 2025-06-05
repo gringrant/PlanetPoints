@@ -1,6 +1,6 @@
 # Welcome to PlanetPoints! - Make every scan count for the Planet with PlanetPoints
 
-![Banner Logo](https://github.com/TheManWhoLikesToCode/PlanetPoints/blob/main/banner_logo.png)
+![Banner Logo](banner_logo.png)
 
 ## Summary
 
@@ -12,21 +12,21 @@ The inspiration for this project came from looking to the future. Everywhere we 
 
 ## Features
 
-- PlantPoints - Retrieve a sustainability score from 1 to 100 for products you use
+- PlantPoints - Retrieve a sustainability score from 1 to 100 for products you use.
 
 # Demo
 
 ## Android Application Landing Page
-![Android Landing Page](https://github.com/TheManWhoLikesToCode/PlanetPoints/blob/main/android_applicaiton_demo.png)
+![Android Landing Page](android_applicaiton_demo.png)
 
 ## Google Vision Example
-![Google Vision Visual](https://github.com/TheManWhoLikesToCode/PlanetPoints/blob/main/google_vision_demo.png)
+![Google Vision Visual](google_vision_demo.png)
 
 ## AWS Lambda Snipped
-![AWS_Lambda](https://github.com/TheManWhoLikesToCode/PlanetPoints/blob/main/lambda_functions_demo.png)
+![AWS_Lambda](lambda_functions_demo.png)
 
 ## Web Application Landing Page
-![Landing Page](https://github.com/TheManWhoLikesToCode/PlanetPoints/blob/main/webapp_demo.png)
+![Landing Page](webapp_demo.png)
 
 This product allows the user to scan product barcodes they use in their day-to-day lives to get a sustainability score. This score is made up of three factors: brand reputation, materials, and packaging. Using our SustainAScore algorithm, we return a score from 1 to 100 based on how good or bad a given product is for the environment.
 
@@ -35,13 +35,12 @@ This product allows the user to scan product barcodes they use in their day-to-d
 3. **Make informed choices**: Use that information to choose products that align with your environmental values.
 4. **Contribute to the Community**: When you scan a product and nothing comes up? Add it. Add it through our intuitive UI.
 
-## Demo
-
-# Android Application Landing Page
+# Info
 ## Resources
 
-- Android application: [Android branch](https://github.com/TheManWhoLikesToCode/PlanetPoints/tree/android)
 - Web application: [PlanetPoints.us](https://www.planetpoints.us/)
+- Web source: [Web-GUI branch](https://github.com/gringrant/PlanetPoints/tree/web-GUI)
+- Android source: [Android branch](https://github.com/gringrant/PlanetPoints/tree/android)
 
 ## How we built it
 
